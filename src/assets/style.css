@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+	background: rgb(121, 79, 69);
+	background: linear-gradient(35deg, rgba(121,79,69,1) 0%, rgba(122,149,107,1) 100%);
+	min-height: 100vh;
+	text-align: center;
+}
+h1 {
+	font-family: 'MuseoModerno';
+	color: #77608d;
+	margin-top: 100px;
+	font-size: 96px;
+	-webkit-text-stroke: 1px #fff;
+}
